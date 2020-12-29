@@ -1,0 +1,14 @@
+.DS_Store
+.git
+.htaccess
+exclude-list.txt
+sync.sh
+*.xcodeproj
+design
+doc
+tex
+py2
+cover_letters
+.gitignore
+.idea
+python
