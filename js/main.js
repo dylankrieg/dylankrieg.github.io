@@ -198,9 +198,6 @@ $(document).ready(function(){
         $(event.delegateTarget).css("cursor","auto");
         $(event.delegateTarget).removeClass("hovered");
     });
-    //$("#links p").click(function(event) {
-    //    window.location.href = 'pdf/MichaelSachs.pdf';
-    //});
     
     //$("#column2").prepend("<div id=\"nav_obscure_top\"></div>");
     //$("#column2").append("<div id=\"nav_obscure_bottom\"></div>");
